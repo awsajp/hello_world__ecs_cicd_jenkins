@@ -1,1 +1,0 @@
-# hello_world__ecs_cicd_jenkins
